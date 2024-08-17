@@ -4,8 +4,7 @@
 
 <!--Cabeçalho e imagem -->
 <center>
-    <h1><b> Welcome to the HEX </b></h1>
-    <img src = https://i.pinimg.com/originals/33/49/55/3349558128989942db61dbb00bdd450c.gif />
+    <h1><b> Welcome to the HEX </b></h1><img src = https://i.pinimg.com/originals/33/49/55/3349558128989942db61dbb00bdd450c.gif />
 </center>
 
 <!-- Contato -->
@@ -15,12 +14,10 @@
 
 
 ## **Sobre mim**
-
 👋 Me chamo Nicolas \
 🎓 Estudo Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste \
 💻 Apaixonado por tecnologia desde pequeno e atualmente seguindo carreira nessa área que está constantemente mudando a vida das pessoas
-
--------
+#
 <br>
 
 ## **Minhas Tecnologias**
