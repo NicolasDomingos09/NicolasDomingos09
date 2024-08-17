@@ -1,9 +1,7 @@
 <!--Cabeçalho e imagem -->
 <div style="text-align:center">
-    <p>
     <h1><b> Welcome to the HEX </b></h1>
     <img src = Wanda.gif />
-    </p>
 </div>
 
 <!-- Contato -->
