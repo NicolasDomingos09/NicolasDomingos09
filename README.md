@@ -1,6 +1,7 @@
 <!--Cabeçalho e imagem -->
-<center><h1><b> Welcome to the HEX </b></h1><img src = https://i.pinimg.com/originals/33/49/55/3349558128989942db61dbb00bdd450c.gif />
-</center>
+<center><h1><b> Welcome to the HEX </b></h1><img src = https://i.pinimg.com/originals/33/49/55/3349558128989942db61dbb00bdd450c.gif /></center>
+
+![GIF Wanda](https://i.pinimg.com/originals/33/49/55/3349558128989942db61dbb00bdd450c.gif)
 
 <!-- Contato -->
 ### Redes
