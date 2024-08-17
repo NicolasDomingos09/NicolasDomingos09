@@ -1,5 +1,8 @@
 <!--Cabeçalho e imagem -->
-<div style="text-align:center"><h1><b> Welcome to the HEX </b></h1><img src = Wanda.gif /></div>
+<div style="text-align:center">
+    <h1><b> Welcome to the HEX </b></h1>
+    <img src = Wanda.gif />
+</div>
 
 <!-- Contato -->
 ### Redes
