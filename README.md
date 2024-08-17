@@ -1,5 +1,5 @@
 <!--Cabeçalho e imagem -->
-<center><h1><b> Welcome to the HEX </b></h1><img src = Wanda.gif /></center>
+<div style="text-align:center"><h1><b> Welcome to the HEX </b></h1><img src = Wanda.gif /></div>
 
 <!-- Contato -->
 ### Redes
@@ -23,4 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width="60">
 <br>
 <br>
+
+#
+
 <img width= 400 src="https://github-readme-stats.vercel.app/api?username=NicolasDomingos09&theme=shadow_red&show_icons=true&bg_color=0f0101"> <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDomingos09&layout=compact&theme=shadow_red&bg_color=0f0101">
