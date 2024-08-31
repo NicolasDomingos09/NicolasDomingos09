@@ -44,7 +44,7 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="55" height="55" />
       </a>
     <td align="center" valign="bottom" width="90">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="90" height="90" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="100" height="100" />
     </td>
     <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".net" />
