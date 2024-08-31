@@ -34,30 +34,30 @@
 <table>
 
   <tr>
-    <td align="center" valign="top" width="70">
+    <td align="center" valign="top" width="90">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="70" height="70"/>
       </a>
       <br>
     </td>
-    <td align="center" valign="middle" width="70">
+    <td align="center" valign="middle" width="90">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="70" height="70" />
       </a>
       <br>
-    <td align="center" valign="bottom" width="70">
+    <td align="center" valign="bottom" width="90">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="90" height="90" />
       <br>
     </td>
-    <td align="center"  width="70">
+    <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".net" />
       <br>
     </td>
-     <td align="center"  width="70">
+     <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
       <br>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=md&theme=light" width="50" height="50" alt="markdown" />
       <br>
     </td>
