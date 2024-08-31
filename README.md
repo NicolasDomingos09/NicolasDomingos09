@@ -58,16 +58,6 @@
 </tr>
 
 </table>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div>
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="70" hspace="6" vspace="0" valign="top"/><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="81" hspace="-3" vspace="0" valign="bottom" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="81" height="81" hspace="-5" vspace="0" valign="bottom" /><img width="180" valign="" src="https://skillicons.dev/icons?i=dotnet,html,md&theme=light" />
-</div>
-
 
 ## **Minhas Ferramentas**
 
