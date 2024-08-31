@@ -34,7 +34,7 @@
 <table>
 
   <tr>
-    <td align="center" valign="top" width="100">
+    <td align="center" width="100">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="70" height="70"/>
       </a>
