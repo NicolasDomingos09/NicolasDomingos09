@@ -11,7 +11,7 @@
 
 <!-- MIPS E ABOUT -->
 <div>
-    <img src="mips.png" width="65" align="left"/><h2>Sobre mim</h2>
+    <h2><img src="mips.png" width="65" align="center"/>Sobre mim</h2>
 </div>
 
 <h3>
