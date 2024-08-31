@@ -1,5 +1,5 @@
 <!--Cabeçalho e imagem -->
-<div style="text-align:center">
+<div align="center">
     <h1><b> Welcome to the HEX </b></h1>
     <img width="100%" src = Wanda.gif />
 </div>
