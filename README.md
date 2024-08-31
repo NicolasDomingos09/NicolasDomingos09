@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&color=0f0101)](mailto:nicolasdomingos.contato@gmail.com)
 
 <!-- MIPS E ABOUT -->
-<h2><img  style="margin-bottom: -15px; margin-right: -10px; margin-left: -15px" src="mips.png" width="65"/>Sobre mim</h2>
+<h2><img  style="margin-bottom: -25px; margin-right: -10px; margin-left: -15px" src="mips.png" width="65"/>Sobre mim</h2>
 
 <h3>
 👋 Me chamo Nicolas <br>
