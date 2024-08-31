@@ -26,13 +26,7 @@
 
 ## **Minhas Tecnologias**
 
-<!-- <div style="display: flex;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" style="width: 60px; height: 70px; margin-right: 6px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" style="width: 60px; height: 81px; margin-bottom: 0px; margin-left: -3;"/><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px;; margin-bottom: 0px; margin-right: -5; margin-left: -3"/><img width = "180"src = https://skillicons.dev/icons?i=dotnet,html,md&theme=light />
-</div> -->
-
-
 <table>
-
   <tr>
     <td align="center" width="100">
       <a href="#macropower-tech">
