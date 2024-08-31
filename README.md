@@ -41,7 +41,7 @@
     </td>
     <td align="center" valign="middle" width="90">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="60" height="60" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="55" height="55" />
       </a>
     <td align="center" valign="bottom" width="90">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="90" height="90" />
